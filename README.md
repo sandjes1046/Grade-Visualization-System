@@ -7,3 +7,6 @@ This project implements a multithreaded Python client-server architecture with a
 GVS is a fully working program capable of data mining class information to display grades, class statistics and display a fully editable gradebook. GVS requires information to be stored in the server to have access to it. 
 
 GVS is not just a grade display program, but rather a data visualization program. Information shown in the program depends on what the user would like to see. 
+
+## Video
+https://github.com/sandjes1046/Grade-Visualization-System
