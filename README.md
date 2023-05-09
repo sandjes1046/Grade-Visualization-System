@@ -9,4 +9,4 @@ GVS is a fully working program capable of data mining class information to displ
 GVS is not just a grade display program, but rather a data visualization program. Information shown in the program depends on what the user would like to see. 
 
 ## Video
-https://github.com/sandjes1046/Grade-Visualization-System
+https://youtu.be/UQ61Xi0I3oo
